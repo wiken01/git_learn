@@ -1,4 +1,9 @@
 hello world
 hello world
 hello python
+<<<<<<< Updated upstream
+=======
+hello stash
+hello in master
+>>>>>>> Stashed changes
 
