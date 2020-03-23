@@ -1,4 +1,5 @@
 hello world
 hello world
 hello python
+hello stash
 
