@@ -2,5 +2,4 @@ hello world
 hello world
 hello python
 hello stash
-hello again
-hello in ys computer1
+hello as my notebook
